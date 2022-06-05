@@ -11,3 +11,6 @@ Our project is a simple XOR Encryption implemented in C#/.NET and Windows Forms.
 ## Key
 You can input your own key or we made special feature that can generate key with the same length as provided text. Generated key currently contains only capital letters and numbers, but could be upgraded to include other symbols.
 If the provided key is shorter than the plaintext, then the key is repeated until all text is encrypted.
+
+## Demo
+[Watch the demo](https://www.youtube.com/watch?v=Ys396kDkHUQ&ab_channel=P%C4%93teris%C4%92cis)
