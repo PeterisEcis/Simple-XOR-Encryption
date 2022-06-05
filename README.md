@@ -1,6 +1,6 @@
 # Simple XOR Encryption
 This is our submission for Cryptography homework 5 where we had to implement a cryptographic algorithm.
-We only found out about this homework at the last day, so we decided to submit simple algithm that we could implement in time (because something is better than nothing)
+We only found out about this homework at the last day, so we decided to submit simple algithm that we could implement in time (because something is better than nothing).
 This project has been tested a bit, but due to deadline, can contain some unforseen mistakes and errors.
 
 Project created together with [Rūdis Rozītis](https://github.com/rudis-rozitis)
